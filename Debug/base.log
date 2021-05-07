@@ -1,0 +1,112 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Personagem.cpp
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.h(20,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.h(25,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.cpp(20,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.cpp(21,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.cpp(89,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.cpp(89,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.cpp(123,18): warning C4305: '+=': truncation from 'double' to 'float'
+  Objeto.cpp
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(48,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(49,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(50,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(57,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(58,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(63,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(64,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(65,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(70,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(72,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(73,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(42,6): warning C4101: 'sorteio': unreferenced local variable
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(95,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(98,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(101,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(104,67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(111,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(114,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(117,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(119,67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(127,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(130,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(133,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(135,67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(141,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(142,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(153,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(153,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Objeto.cpp(158,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.h(20,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.h(25,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Jogo.cpp
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.h(20,26): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Personagem.h(25,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(26,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(27,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(33,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(34,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(40,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(41,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(47,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(48,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(54,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(55,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(61,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(67,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(73,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(117,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(119,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(120,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(254,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(254,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(255,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(255,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(315,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(319,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(435,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(489,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(489,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(490,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(490,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(532,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(534,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Unisinos(C++)\projetos\OneChaoticDay\Jogo.cpp(535,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+Jogo.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+libUnicornio_d.lib(Audio.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Audio.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(GerenciadorDeMusica.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(GerenciadorDeMusica.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(MixadorDeAudios.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(MixadorDeAudios.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Musica.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Musica.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Som.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Som.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(uniTestarColisao.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(uniTestarColisao.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(PainelDeDebug.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(PainelDeDebug.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(GerenciadorDeEventos.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(GerenciadorDeEventos.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(EventosInputTexto.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(EventosInputTexto.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(EventosJoysticks.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(EventosJoysticks.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(EventosMouse.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(EventosMouse.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(EventosTeclado.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(EventosTeclado.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(EventosToques.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(EventosToques.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Joystick.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Joystick.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Global.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Global.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(BotaoSprite.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(BotaoSprite.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(jsoncpp.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(jsoncpp.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Quad.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Quad.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(GerenciadorDeRecursos.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(GerenciadorDeRecursos.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Cor.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Cor.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Fading.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Fading.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Fonte.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Fonte.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(GerenciadorDeGraficos.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(GerenciadorDeGraficos.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Janela.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Janela.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Sprite.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Sprite.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(SpriteSheet.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(SpriteSheet.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Texto.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Texto.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Textura.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Textura.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(TexturaBase.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(TexturaBase.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(GerenciadorDeStrings.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(GerenciadorDeStrings.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(GrupoDeStrings.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(GrupoDeStrings.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(GerenciadorDeTempo.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(GerenciadorDeTempo.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(uniFuncoesPrincipais.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(uniFuncoesPrincipais.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+libUnicornio_d.lib(Vetor2D.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' was not found with 'libUnicornio_d.lib(Vetor2D.obj)' or at 'C:\Unisinos(C++)\projetos\OneChaoticDay\bin\libUnicornio-Windows.pdb'; linking object as if no debug info
+  base.vcxproj -> C:\Unisinos(C++)\projetos\OneChaoticDay\bin\OneChaoticDay.exe
